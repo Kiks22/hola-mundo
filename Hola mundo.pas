@@ -1,4 +1,4 @@
-program kevin;
+Program kevin;
 uses crt;
 var 
 x: integer;
